@@ -28,7 +28,7 @@ const Intro = () => (
             </div>
             <div className='typing-container'>
                 {/* <p>I am a&#xA0;</p><p><AnimatedTypingComponent /></p> */}
-                <p>a software developer</p>
+                <p className="role">a software developer</p>
             </div>
             <img className='me-img' src={me} alt='' />
         </div>

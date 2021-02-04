@@ -27,8 +27,6 @@ h1 {
     font-size: 1.3rem;
 
 }
-
-
 .name-container {
     width:200px;
     display: flex;
@@ -44,4 +42,26 @@ h1 {
      align-items: start;
      margin-left: 40px;
      margin-left: 10%;
+}
+
+@media screen and (min-width: 600px){
+    .intro-container{
+        height: 95vh;
+    }
+    .center{
+        margin-left: 150px;
+    }
+    .name-container{
+        width: 500px;
+    }
+    h1{
+        font-size: 3em;
+    }
+    .role{
+        font-size: 1em;
+    }
+    .me-img{
+        height: 230px;
+        width:230px;
+    }
 }

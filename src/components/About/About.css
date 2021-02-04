@@ -4,6 +4,7 @@
     color: lightgray;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .family-img{
@@ -15,4 +16,19 @@
 .about-me{
     font-size: .75em;
     margin-left: 10px;
+}
+
+@media screen and (min-width: 600px){
+    .about-container{
+        height: 90vh;
+        width: 100%;
+    }
+    .family-img{
+        height: 400px;
+        
+    }
+    .about-me{
+        font-size: 1.5em;
+        margin-left: 50px;
+    }
 }
