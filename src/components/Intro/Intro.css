@@ -2,3 +2,12 @@
     height: 300px;
     background: gray;
 }
+p{
+    display: inline-block;
+}
+
+img{
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+}
