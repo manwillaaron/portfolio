@@ -14,17 +14,17 @@ p{
     height: 30%;
 }
 
-img{
-    height: 120px;
-    width:120px;
+.me-img{
+    height: 130px;
+    width:130px;
     border-radius: 50%;
     position: relative;
     left:110px;
-    bottom: 85px;
+    bottom: 82px;
 }
 
 h1 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 
 }
 
@@ -35,6 +35,7 @@ h1 {
     flex-direction: column;
     align-items: start;
     margin-left: 40px;
+    margin-left: 10%;
 }
 
 .typing-container{
@@ -42,4 +43,5 @@ h1 {
      width:200px;
      align-items: start;
      margin-left: 40px;
+     margin-left: 10%;
 }

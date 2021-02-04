@@ -23,13 +23,14 @@ const Intro = () => (
     <div className='intro-container'>
         <div className='center'>
             <div className='name-container'>
-                <h1>My name is </h1>
-                <h1>Aaron Manwill</h1>
+                <h1>I'm Aaron Manwill</h1>
+                {/* <h1>Aaron Manwill</h1> */}
             </div>
             <div className='typing-container'>
-                <p>I am a&#xA0;</p><p><AnimatedTypingComponent /></p>
+                {/* <p>I am a&#xA0;</p><p><AnimatedTypingComponent /></p> */}
+                <p>a software developer</p>
             </div>
-            <img src={me} alt='' />
+            <img className='me-img' src={me} alt='' />
         </div>
     </div>
 )
