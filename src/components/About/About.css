@@ -18,7 +18,7 @@
     margin-left: 10px;
 }
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 1000px){
     .about-container{
         height: 90vh;
         width: 100%;
