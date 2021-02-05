@@ -11,8 +11,9 @@
   }
 }
 .section-label {
-  background: black;
-  color: lightgray;
+  background: #a98b98;
+  color: black;
+  font-size: 25px;
 }
 
 .stack-name-hold {

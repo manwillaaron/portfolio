@@ -1,6 +1,6 @@
 .intro-container{
     height: 300px;
-    background: gray;
+    background: #a6f0c6;
     display: flex;
     flex-direction: column;
     justify-content: center;

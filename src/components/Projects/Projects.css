@@ -1,6 +1,6 @@
 .projects-container{
     height: 350px;
-    background: gray;
+    background:#a6f0c6;
     display: flex;
     flex-direction: column;
 }
