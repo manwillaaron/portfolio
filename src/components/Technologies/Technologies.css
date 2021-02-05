@@ -1,6 +1,6 @@
 .technologies-container{
     height: 300px;
-    background: #a98b98;
+    background:#0DA7A9;
     color: lightgray;
 }
 
@@ -10,7 +10,7 @@
     height: 80%;
     display: flex;
     /* color: lightgray; */
-    background: #a98b98;
+    background: #0DA7A9;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
