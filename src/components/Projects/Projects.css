@@ -20,7 +20,7 @@ section{
     display: flex;
     align-items: center;
 }
-p{ 
+.paragraph{ 
     margin-left: 5px;
     font-size: .75em;
     text-align: left;
@@ -28,7 +28,8 @@ p{
 
 @media screen and (min-width: 1000px){
     .projects-container{
-        height: 90vh;
+        height: 95vh;
+        width: 100vw;
         flex-direction: row;
         justify-content: space-around;
 
@@ -46,8 +47,8 @@ p{
         flex-direction: column;
         
     }
-    p{
-        width: 400px;
+    .paragraph{
+        width: 500px;
         font-size: 2em;
         margin-top: 10px;
     }

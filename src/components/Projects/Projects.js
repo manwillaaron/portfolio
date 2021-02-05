@@ -10,7 +10,7 @@ const Projects = () => (
             <section>
                 <img className='rent-ops-img' src={rentops} />
                 <div>
-                    <p>
+                    <p className='paragraph'>
 
                         Rent Ops is my capstone project.
                         I developed this property management
@@ -30,7 +30,7 @@ const Projects = () => (
             <h1>Refactored Umbrella</h1>
             <section>
                 <img className='rent-ops-img' src={refactoredumbrella} alt='' />
-                <div><p>
+                <div><p className='paragraph'>
                     As a group, four other students and I
                     created this dating website. I often took
                     lead on this project since I was one of
