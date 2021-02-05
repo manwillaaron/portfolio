@@ -8,15 +8,16 @@
 }
 
 .family-img{
-    height: 180px;
+    height: 170px;
     margin-left: 10px;
     border-radius: 5px;
 }
 
 .about-me{
-    font-size: .75em;
+    font-size: .73em;
     margin-left: 10px;
-    width: 60%;
+    width: 65%;
+    text-align: left;
 }
 
 @media screen and (min-width: 1000px){
