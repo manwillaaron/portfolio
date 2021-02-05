@@ -15,7 +15,12 @@ const Projects = () => (
                         Rent Ops is my capstone project.
                         I developed this property management
                         side to help my dad manage his various
-                        rental properties. I used the following
+                        rental properties. There is a property manager
+                        side of the website as well as a renter portion 
+                        the renter portion you have to create a property
+                        and a renter to login as a renter.
+                        A renter can request for fixes and pay their rent 
+                        via stripe when logged in. I used the following
                         technologies to complete the site:
                         socket.io, twilio, stipe, react, node, 
                         express, and others.
