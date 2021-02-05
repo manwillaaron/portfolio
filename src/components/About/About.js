@@ -5,22 +5,20 @@ const About = () => (
     <div className='about-container'>
         <img className='family-img' src={family} />
         <p className='about-me'>
-            As my sales career progressed, I
-            realized that field was not where
-            I would work for the rest of my Career.
-            I do enjoy sales psycology and how the 
-            mind works, Its just I didn't love what 
-            I was doing. I finally decided to dive
-            in and have loved every minute of my
-            time as a developer. I love finding
-            solutions to complex problems, coming
-            up with the most efficient way to do
-            things, and building effective and
-            efficient apps. When I'm not coding I
-            love to wood work, spending time with 
-            my family, and watch movies with my wife.
-            If you have any questions please don't
-            hesitate to get in touch!
+        Before learning web development, 
+        most of my experience centered around sales. 
+        I am very interested in sales psychology and 
+        how the mind works which naturally drew me towards 
+        selling. However, I eventually wanted to find a role 
+        that I loved. Something that I woke up excited each 
+        morning to do. Many of my sales roles required advanced 
+        excel and reporting skills which helped guide me to web development. 
+        I dove into coding while working through DevMountain and I have loved 
+        every minute since then. Solving complex problems, inventing efficient 
+        processes, and building something from the ground up is 
+        has been extremely rewarding for me. When I am not coding, 
+        I spend time woodworking, playing with my kids, 
+        and watching movies with my wife. 
         <a href='https://www.yumpu.com/en/document/read/65276041/aaronmanwillresume2021-2'>Click here&#xA0;</a>
         for my resume and contact information.
         </p>

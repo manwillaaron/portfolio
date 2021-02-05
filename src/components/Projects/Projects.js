@@ -11,13 +11,16 @@ const Projects = () => (
                 <img className='rent-ops-img' src={rentops} />
                 <div>
                     <p>
-                        this is my capstone project. It is a property management site.
-                        That helps manage properties and renters in diffrent ways.
-                        I used technologies including socket.io,
-                        twilio, stipe, React, node, express, and others.
-                        it took me about two weeks to build out the mvp and
-                        I have been making improvements since then and
-                        deploying new changes periodically.
+
+                        Rent Ops is my capstone project.
+                        I developed this property management
+                        side to help my dad manage his various
+                        rental properties. I used the following
+                        technologies to complete the site:
+                        socket.io, twilio, stipe, react, node, 
+                        express, and others.
+                        The MVP took about two weeks and I
+                        have deployed improvements periodically.
                     </p>
                 </div>
             </section>
@@ -28,11 +31,16 @@ const Projects = () => (
             <section>
                 <img className='rent-ops-img' src={refactoredumbrella} alt='' />
                 <div><p>
-                    This is a dating website that a group of four students
-                    and I created. I did tend to lead this group in building
-                    this project just because I was a little more advanced
-                    with web development. It was an incredably fun project
-                    to work on with other developers.
+                    As a group, four other students and I
+                    created this dating website. I often took
+                    lead on this project since I was one of
+                    the more proficient members of the team.
+                    This project was a great learning
+                    experience that taught me how to
+                    collaborate with other developers
+                    using agile practices
+                    and bring new ideas together to a
+                    finished, scalable project.
                 </p>
                 </div>
             </section>
