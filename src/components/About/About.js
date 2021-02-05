@@ -21,6 +21,8 @@ const About = () => (
             my family, and watch movies with my wife.
             If you have any questions please don't
             hesitate to get in touch!
+        <a href='https://www.yumpu.com/en/document/read/65276041/aaronmanwillresume2021-2'>Click here&#xA0;</a>
+        for my resume and contact information.
         </p>
     </div>
 )
