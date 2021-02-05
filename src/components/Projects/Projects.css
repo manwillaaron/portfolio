@@ -34,8 +34,8 @@ p{
 
     }
     .rent-ops-img{
-        height: 250px;
-        width: 400px;
+        height: 300px;
+        width: 500px;
     }
     /* .big-project{
         
@@ -48,6 +48,7 @@ p{
     }
     p{
         width: 400px;
-        font-size: 1.3em;
+        font-size: 2em;
+        margin-top: 10px;
     }
 }

@@ -23,10 +23,10 @@ const Intro = () => (
     <div className='intro-container'>
         <div className='center'>
             <div className='name-container'>
-                <h1>I'm Aaron Manwill</h1>
+                <h1 className='aaron-manwill'>I'm Aaron Manwill</h1>
                 {/* <h1>Aaron Manwill</h1> */}
-            </div>
-            <div className='typing-container'>
+            {/* </div> */}
+            {/* <div className='typing-container'> */}
                 {/* <p>I am a&#xA0;</p><p><AnimatedTypingComponent /></p> */}
                 <p className="role">a software developer</p>
             </div>
