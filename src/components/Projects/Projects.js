@@ -9,14 +9,16 @@ const Projects = () => (
             <h1>Rent-ops</h1>
             <section>
                 <img className='rent-ops-img' src={rentops} />
-                <div><p>
-                    I would consider this my keystone portfolio piece.
-                    I used technologies including socket.io,
-                    twilio, stipe, React, node, express, and others.
-                    it took me about two weeks to build out the mvp and
-                    I have been making improvements since then and
-                    deploying new changes periodically.
-                </p>
+                <div>
+                    <p>
+                        this is my capstone project. It is a property management site.
+                        That helps manage properties and renters in diffrent ways.
+                        I used technologies including socket.io,
+                        twilio, stipe, React, node, express, and others.
+                        it took me about two weeks to build out the mvp and
+                        I have been making improvements since then and
+                        deploying new changes periodically.
+                    </p>
                 </div>
             </section>
             <a href='https://rent-ops.com'>RentOps.com</a>
@@ -27,7 +29,7 @@ const Projects = () => (
                 <img className='rent-ops-img' src={refactoredumbrella} alt='' />
                 <div><p>
                     This is a dating website that a group of four students
-                    and I created. I did tend to lead this group in build
+                    and I created. I did tend to lead this group in building
                     this project just because I was a little more advanced
                     with web development. It was an incredably fun project
                     to work on with other developers.
