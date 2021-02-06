@@ -19,7 +19,7 @@ const About = () => (
         has been extremely rewarding for me. When I am not coding, 
         I spend time woodworking, playing with my kids, 
         and watching movies with my wife. 
-        <a href='https://www.yumpu.com/en/document/read/65276041/aaronmanwillresume2021-2'>Click here&#xA0;</a>
+        <a href='https://www.yumpu.com/en/document/read/65280077/aaron-manwill-resume'>Click here&#xA0;</a>
         for my resume and contact information.
         </p>
     </div>
